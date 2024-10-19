@@ -12,7 +12,7 @@ Welcome to my repository dedicated to mastering Java, Selenium, Cucumber, and Te
 
 ## Repository Structure
 
-```
+
 ├── README.md                # Project overview and instructions
 ├── .gitignore               # Files and directories to ignore in Git
 ├── Projects/
@@ -23,7 +23,7 @@ Welcome to my repository dedicated to mastering Java, Selenium, Cucumber, and Te
 ├── Docs/                    # Documentation and guides
 ├── Resources/               # Links to helpful resources
 └── Examples/                # Example test cases and scripts
-```
+
 
 ## Getting Started
 
