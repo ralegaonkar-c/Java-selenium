@@ -1,0 +1,39 @@
+```gitignore
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.log
+target/
+bin/
+build/
+
+# IDE specific files
+/.idea/
+/.vscode/
+/*.iml
+*.user
+
+# Eclipse specific files
+/.metadata
+/.classpath
+/.project
+
+# IntelliJ specific files
+out/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Maven specific
+*.pom
+
+# Cucumber specific
+*.feature
+
+# System files
+.DS_Store
+Thumbs.db
+```
